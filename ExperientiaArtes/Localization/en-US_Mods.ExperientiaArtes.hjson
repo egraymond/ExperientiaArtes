@@ -1,0 +1,32 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	Finis: {
+		DisplayName: Finis
+		Tooltip: All things must come to an end.
+	}
+
+	OcularTissue: {
+		DisplayName: Ocular Tissue
+		Tooltip: Collecting this feels... natural.
+	}
+
+	SipsaiteOre: {
+		DisplayName: Sipsaite Ore
+		Tooltip: Gathering this feels... instinctive.
+	}
+
+	ArtificialCore: {
+		DisplayName: Artificial Core
+		Tooltip: Hunting for this was... worth it.
+	}
+}
+
+Projectiles.Shockwave.DisplayName: Shockwave
+
+NPCs: {
+	Infernumoculum.DisplayName: Fragmented Observer
+	Unbound.DisplayName: Unbound
+}
+
+Tiles.SipsaiteOre.MapEntry: Sipsaite Ore

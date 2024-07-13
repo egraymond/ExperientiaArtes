@@ -1,0 +1,3 @@
+displayName = Experientia Artes
+author = Elias Garlitz
+version = 0.1
